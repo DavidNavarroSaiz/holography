@@ -83,6 +83,8 @@ formula
 
 </div>
 
+
+
 <p> To simulate an image you have to use the dlhm_sim method: </p>
 
 ```
@@ -146,7 +148,7 @@ described by means of a scalar diffraction formula:
 <div align="center">
     <img src="./resources/eq2.png"><img>
 
-
+</div>
 <p>
 The result  is a complex-valued quantity from
 which one can compute its intensity or phase.
@@ -194,7 +196,7 @@ axial resolution of DLHM
 <div align="center">
     <img src="./resources/result.PNG"><img>
 
-
+</div>
 
 <h6>Usage</h6>
 
@@ -205,13 +207,13 @@ In reconstruct.py and simulate.py samples you can see the respective usage for e
 
 <p>The required libraries are:
 
- cv2
- time
- math
- numpy 
- os    
- scipy
- matplotlib
- skimage  
+ cv2, 
+ time, 
+ math, 
+ numpy, 
+ os,    
+ scipy, 
+ matplotlib, 
+ skimage,   
 
 </p>
