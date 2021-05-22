@@ -121,6 +121,7 @@ dlhm_sim(object,z,L,lambda_,dx)
     <img src="./resources/simulation_result.png"><img>
 
     
+</div>
 
 <h5> Reconstruction Module </h5>
 
