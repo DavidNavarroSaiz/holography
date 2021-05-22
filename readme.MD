@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./resources/DLHM.PNG"><img>
+    <img src="./resources/DLHM.png"><img>
 
 </div>
 <h1 align="center">Set of tools useful for digital lensless holographic microscopy (DLHM) using  python  </h1>
