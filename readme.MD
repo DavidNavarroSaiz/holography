@@ -51,11 +51,13 @@ will widen its spectrum of applications,such as microspheres,
 
 
 <p>
-    <b>Taken from: https://www.osapublishing.org/ao/abstract.cfm?uri=ao-45-5-836  and  https://www.osapublishing.org/ao/abstract.cfm?uri=ao-59-19-5788 </b>
+    <b>Taken from:</b></p> 
+    
+  <p>  https://www.osapublishing.org/ao/abstract.cfm?uri=ao-45-5-836  and  https://www.osapublishing.org/ao/abstract.cfm?uri=ao-59-19-5788 </p> 
 
     For more  information check the articles.
 
-</p>
+
 <h3>Why is it important this project?</h3>
 
 <
@@ -78,11 +80,6 @@ formula
 
 <div align="center">
     <img src="./resources/equation.png"><img>
-
-
-   
-
-
 
 </div>
 
